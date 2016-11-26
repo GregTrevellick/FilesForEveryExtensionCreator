@@ -10,16 +10,14 @@ namespace FilesForEveryExtensionCreator
         private static List<string> alphabet2 = new List<string> { "a", "B", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z" };
         private static List<string> alphabet3 = new List<string> { "a", "B", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z" };
         private static List<string> alphabet4 = new List<string> { "X" };
+        private static string archivePath = @"C:\Temp\" + subPath;
         private const string fileName = "GitIgnore";
-        private static string parentPath;
+        private static string parentPath = @"C:\Temp\" + subPath;
         private static string parentPathLetterFolder;
         private const string subPath = @"FilesForEveryExtensionCreator\Files";
-        private static string targetPath;
-
+        
         public static void ArchiveAndCreateFiles()
         {
-            parentPath = @"C:\Temp\";
-
             ArchiveExistingFolder();
 
             Console.WriteLine();
@@ -53,7 +51,7 @@ namespace FilesForEveryExtensionCreator
                 Console.WriteLine("Creating files beginning with letter " + fileSuffixChar1);
 
                 string subSubPath = subFoldersPerLetter ? @"ByLetter\" : @"All35K\";
-                parentPathLetterFolder = parentPath + subPath + @"\" + subSubPath + fileSuffixChar1;
+                 parentPathLetterFolder = parentPath + @"\" + subSubPath + fileSuffixChar1;
 
                 //Create the A thru Z sub-folders, but not when in 35k mode
                 if (subFoldersPerLetter)
@@ -62,7 +60,7 @@ namespace FilesForEveryExtensionCreator
                 }
                 else
                 {
-                    Directory.CreateDirectory(parentPath + subPath + @"\" + subSubPath);
+                    Directory.CreateDirectory(parentPath + @"\" + subSubPath);
                 }
 
                 foreach (var letter2 in alphabet2)
@@ -73,7 +71,7 @@ namespace FilesForEveryExtensionCreator
                     {
                         var fileSuffixChar3 = letter3;
                         var fullFileSuffix = fileSuffixChar1 + fileSuffixChar2 + fileSuffixChar3;
-                        var fileFullPath = parentPath + targetPath + subSubPath;
+                        var fileFullPath = parentPath + @"\" + subSubPath;
                         if (subFoldersPerLetter)
                         {
                             fileFullPath += fileSuffixChar1 + @"\";
@@ -91,27 +89,21 @@ namespace FilesForEveryExtensionCreator
         /// </summary>
         private static void ArchiveExistingFolder()
         {
-            targetPath = subPath + @"\";            
-            var archivePath = @"C:\Temp\" + subPath;
-
-            Directory.CreateDirectory(archivePath);
-            archivePath += DateTime.UtcNow.Ticks.ToString();
-
-            if (!Directory.Exists(targetPath))
+            if (Directory.Exists(parentPath))
             {
-                Directory.CreateDirectory(targetPath);
+                archivePath += DateTime.UtcNow.Ticks.ToString();
+
+                Console.WriteLine("Archiving ");
+                Console.WriteLine("   " + parentPath);
+                Console.WriteLine("To");
+                Console.WriteLine("   " + archivePath);
+                Console.WriteLine();
+                Console.WriteLine("Press any key to continue...");
+                Console.ReadKey();
+
+                Directory.Move(parentPath, archivePath);
+                Directory.CreateDirectory(parentPath);
             }
-
-            Console.WriteLine("Archiving ");
-            Console.WriteLine("   " + targetPath);
-            Console.WriteLine("To");
-            Console.WriteLine("   " + archivePath);
-            Console.WriteLine();
-            Console.WriteLine("Press any key to continue...");
-            Console.ReadKey();
-
-            Directory.Move(targetPath, archivePath);
-            Directory.CreateDirectory(targetPath);
         }
 
         /// <summary>

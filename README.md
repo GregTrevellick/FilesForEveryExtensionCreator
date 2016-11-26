@@ -33,6 +33,10 @@ Special case handling for the content of the following file types (ensure conten
 * .LICX
 * .RESX
 
+# Credits
+
+Thanks to https://github.com/jwbats/EdmxStuff
+
 # License
 
 All software included is bundled with own license

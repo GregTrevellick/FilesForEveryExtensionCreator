@@ -1,6 +1,6 @@
-# Files For Every Suffix
+# Files For Every Extension
 
-A C# .Net console app that will populate a directory with approx 70,000 tiny files (2 x 26 x 26 x 26 x 2), each with a unique suffix, resulting in files on your file system such as xxx.AAA, xxx.AAB, xxx.AAC through to xxx.ZZZ.
+A C# .Net console app that will populate a directory with approx 70,000 tiny files (2 x 26 x 26 x 26 x 2), each with a unique extension, resulting in files on your file system such as xxx.AAA, xxx.AAB, xxx.AAC through to xxx.ZZZ.
 
 ![File1](winExpl.png)
 

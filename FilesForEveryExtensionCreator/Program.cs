@@ -15,8 +15,7 @@ namespace FilesForEveryExtensionCreator
                 FileCreator.ArchiveAndCreateFiles();
                 Console.WriteLine("Files created successfully");
                 Console.WriteLine();
-                //Console.WriteLine("Look in 'Files' folder within the 'FilesForEverySuffixTemplate' project folder.");
-                Console.WriteLine("Look in 'Files' folder within the 'FilesForEveryExtension_Creator_Template' project folder.");
+                Console.WriteLine(@"Look in C:\temp\FilesForEveryExtensionCreator\Files folder.");
                 Console.WriteLine();
                 Console.WriteLine("        ENJOY :-)     !");
                 Console.WriteLine();

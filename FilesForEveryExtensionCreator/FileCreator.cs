@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Reflection;
 
 namespace FilesForEveryExtensionCreator
 {
@@ -14,17 +13,20 @@ namespace FilesForEveryExtensionCreator
         private const string fileName = "GitIgnore";
         private static string parentPath;
         private static string parentPathLetterFolder;
-        private const string subPath = @"FilesForEverySuffixTemplate\Files";
+        private const string subPath = @"FilesForEveryExtensionCreator\Files";
         private static string targetPath;
 
         public static void ArchiveAndCreateFiles()
         {
-            var assemblyPath = Path.GetDirectoryName(Assembly.GetEntryAssembly().Location);
-            parentPath = assemblyPath.Replace(@"FilesForEveryExtensionCreator\bin\Debug", string.Empty);
+            parentPath = @"C:\Temp\";
 
             ArchiveExistingFolder();
 
+            Console.WriteLine();
+            Console.WriteLine("Creating files in " + parentPath + subPath);
+            Console.WriteLine();
             CreateFiles(true);
+
             Console.WriteLine();
             Console.WriteLine("Starting phase 2");
             Console.WriteLine();

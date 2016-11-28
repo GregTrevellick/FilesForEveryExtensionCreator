@@ -7,10 +7,10 @@ The files created by this app can be found [here](https://github.com/GregTrevell
 ![File1](winExpl.png)
 
 ## Who Is This For
-* Anyone who needs a big variety of file types but hasn't the time to create by hand.
-* Developers who need files of many different types, typically for edge-case testing of code.
-* May be of benefit to authors of certain types of Visual Studio extensions.
-* Anyone who wants to see the associated file icon and/or program for every type of file on their system.
+* Anyone who needs a big variety of file types but hasn't the time to create by hand
+* Developers who need files of many different types, typically for edge-case testing of code
+* Authors of certain types of Visual Studio extensions
+* Anyone who wants to see the associated file icon and/or program for every type of file on their system
 
 ## Features
 

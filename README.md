@@ -4,13 +4,13 @@ A C# .Net console app that will populate a directory with 70,252 tiny files, eac
 
 ![File1](winExpl.png)
 
-# Who Is This For
+## Who Is This For
 * Anyone who needs a big variety of file types but hasn't the time to create by hand.
 * Developers who need files of many different types, typically for edge-case testing of code.
 * May be of benefit to authors of certain types of Visual Studio extensions.
 * Anyone who wants to see the associated file icon and/or program for every type of file on their system.
 
-# Features
+## Features
 
 This app will create two folders named 'ByLetter' and 'All35K' within 'C:\Temp\FileForEveryExtensionCreator\Files'. 
 
@@ -23,11 +23,11 @@ Special case handling for the content of the following file types (ensure conten
 * .LICX
 * .RESX
 
-# Credits
+## Credits
 
 Thanks to [jwbats](https://github.com/jwbats/EdmxStuff)
 
-# License
+## License
 
 All software included is bundled with own license
 

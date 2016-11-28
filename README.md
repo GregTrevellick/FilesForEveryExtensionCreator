@@ -1,4 +1,4 @@
-# Files For Every Extension
+# Files For Every Extension Creator
 
 A C# .Net console app that will populate a directory with 70,252 tiny files, each with a unique extension, resulting in files on your file system such as xxx.AAA, xxx.AAB, xxx.AAC through to xxx.ZZZ.
 

@@ -2,9 +2,9 @@
 
 A C# .Net console app that will populate a directory with 70,252 tiny files, each with a unique extension, resulting in files on your file system such as xxx.AAA, xxx.AAB, xxx.AAC through to xxx.ZZZ.
 
-![File1](winExpl.png)
-
 The files created by this app can be found [here](https://github.com/GregTrevellick/FilesForEveryExtension).
+
+![File1](winExpl.png)
 
 ## Who Is This For
 * Anyone who needs a big variety of file types but hasn't the time to create by hand.

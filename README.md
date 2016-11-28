@@ -14,11 +14,11 @@ The files created by this app can be found [here](https://github.com/GregTrevell
 
 ## Features
 
-This app will create two folders named 'ByLetter' and 'All35K' within 'C:\Temp\FileForEveryExtensionCreator\Files'. 
+This app will create two folders named <code>ByLetter</code> and <code>All35K</code> within <code>C:\Temp\FileForEveryExtensionCreator\Files</code>. 
 
-'ByLetter' contains 35,126 files, each 11 bytes, broken down into separate folders per letter of the alphabet. Each folder therefore contains 1,351 files. 
+<code>ByLetter</code> contains 35,126 files, each 11 bytes, broken down into separate folders per letter of the alphabet. Each folder therefore contains 1,351 files. 
 
-'All35K' contains the exact same 35,126 files, but in a single folder rather than segregated by initial letter. This may mean that opening this folder on some systems may be relatively slow.
+<code>All35K</code> contains the exact same 35,126 files, but in a single folder rather than segregated by initial letter. This may mean that opening this folder on some systems may be relatively slow.
 
 Special case handling for the content of the following file types (ensure content is valid for a Visual studio build):
 * .EDMX

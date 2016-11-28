@@ -28,7 +28,7 @@ The app has special case handling for the content of the following file types, i
 
 ## Credits
 
-The following [jwbats](https://github.com/jwbats/EdmxStuff) post was particularly helpful whilst creating this app.
+The following [repo](https://github.com/jwbats/EdmxStuff) was particularly helpful whilst creating this app.
 
 ## License
 

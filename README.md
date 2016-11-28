@@ -14,7 +14,7 @@ The files created by this app can be found [here](https://github.com/GregTrevell
 
 ## Features
 
-This app will create two folders named <code>ByLetter</code> and <code>All35K</code> within <code>C:\Temp\FileForEveryExtensionCreator\Files</code>. 
+This app will create two folders named **ByLetter** and <code>All35K</code> within <code>C:\Temp\FileForEveryExtensionCreator\Files</code>. 
 
 <code>ByLetter</code> contains 35,126 files, each 11 bytes, broken down into separate folders per letter of the alphabet. Each folder therefore contains 1,351 files. 
 

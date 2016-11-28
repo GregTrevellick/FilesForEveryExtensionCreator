@@ -14,20 +14,21 @@ The files created by this app can be found [here](https://github.com/GregTrevell
 
 ## Features
 
-This app will create two folders named **ByLetter** and <code>All35K</code> within <code>C:\Temp\FileForEveryExtensionCreator\Files</code>. 
+This app will create two folders named ***ByLetter*** and ***All35K*** within <code>C:\Temp\FileForEveryExtensionCreator\Files</code>. 
 
-<code>ByLetter</code> contains 35,126 files, each 11 bytes, broken down into separate folders per letter of the alphabet. Each folder therefore contains 1,351 files. 
+The ***ByLetter*** folder contains 35,126 files, each 11 bytes, broken down into separate folders per letter of the alphabet. Each folder therefore contains 1,351 files. 
 
-<code>All35K</code> contains the exact same 35,126 files, but in a single folder rather than segregated by initial letter. This may mean that opening this folder on some systems may be relatively slow.
+The ***All35K*** folder contains the exact same 35,126 files, but in a single folder rather than segregated by initial letter. This folder will therefore be slower to open than the ***ByLetter*** folder, but saves you copying all 26 x 1351 files into a single folder if that is what you desire.
 
-Special case handling for the content of the following file types (ensure content is valid for a Visual studio build):
+The app has special case handling for the content of the following file types, in order to ensure their content is legal for MSBuild (e.g. within Visual Studio IDE):
+
 * .EDMX
 * .LICX
 * .RESX
 
 ## Credits
 
-Thanks to [jwbats](https://github.com/jwbats/EdmxStuff)
+The following [jwbats](https://github.com/jwbats/EdmxStuff) post was particularly helpful whilst creating this app.
 
 ## License
 

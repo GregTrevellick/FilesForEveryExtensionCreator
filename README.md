@@ -1,5 +1,8 @@
 # Files For Every Extension Creator
 
+![](https://img.shields.io/github/license/gittools/gitlink.svg)
+[![Build status](https://ci.appveyor.com/api/projects/status/b1t4vqmcjjoqos9u?svg=true)](https://ci.appveyor.com/project/GregTrevellick/filesforeveryextensioncreator)
+
 A C# .Net console app that will populate a directory with 70,252 tiny files, each with a unique extension, resulting in files on your file system such as xxx.AAA, xxx.AAB, xxx.AAC through to xxx.ZZZ.
 
 The files created by this app can be found [here](https://github.com/GregTrevellick/FilesForEveryExtension).

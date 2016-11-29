@@ -2,9 +2,6 @@
 
 namespace FilesForEveryExtensionCreator
 {
-
-    x
-
     class Program
     {
         static void Main(string[] args)

@@ -36,4 +36,4 @@ The following [repo](https://github.com/jwbats/EdmxStuff) was particularly helpf
 
 ## License
 
-[MIT](https://github.com/GregTrevellick/FilesForEveryExtensionCreator/blob/master/LICENCE)
+[MIT](/LICENSE.txt)

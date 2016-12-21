@@ -1,6 +1,6 @@
 # Files For Every Extension Creator
 
-[![](https://img.shields.io/github/license/gittools/gitlink.svg)](https://github.com/GregTrevellick/FilesForEveryExtensionCreator/blob/master/LICENCE)
+[![Licence](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 [![Build status](https://ci.appveyor.com/api/projects/status/b1t4vqmcjjoqos9u?svg=true)](https://ci.appveyor.com/project/GregTrevellick/filesforeveryextensioncreator)
 [![Build Status](https://travis-ci.org/GregTrevellick/FilesForEveryExtensionCreator.svg?branch=master)](https://travis-ci.org/GregTrevellick/FilesForEveryExtensionCreator)
 

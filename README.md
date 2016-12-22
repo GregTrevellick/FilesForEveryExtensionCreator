@@ -36,4 +36,4 @@ The following [repo](https://github.com/jwbats/EdmxStuff) was particularly helpf
 
 ## License
 
-[MIT](/LICENSE.txt)
+[MIT](/LICENCE.txt)

@@ -48,8 +48,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="FFESIcon32x32.png" />
-    <Content Include="FFESPreview175x175.png" />
+    <Content Include="Resources\ReadMeScreenShot_WindowsExplorer.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

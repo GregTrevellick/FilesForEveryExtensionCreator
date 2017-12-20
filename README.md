@@ -1,4 +1,5 @@
 [CharityWareURL]: https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware
+[WhyURL]: https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Why
 
 # Files For Every Extension Creator
 
@@ -20,6 +21,8 @@ The files created by this app can be found [here](https://github.com/GregTrevell
 * Developers who need files of many different types, typically for edge-case testing of code
 * Authors of certain types of Visual Studio extensions
 * Anyone who wants to see the associated file icon and/or program for every type of file on their system
+
+[Why?][WhyURL]
 
 ## Features
 

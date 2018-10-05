@@ -4,7 +4,7 @@
 # Files For Every Extension Creator
 
 <!--BadgesSTART-->
-[![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20read%20me%20synchronizer-brightgreen.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
+[![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20read%20me%20synchronizer-brightgreen.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer) 
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/FilesForEveryExtensionCreator?branch=master)](https://bettercodehub.com/results/GregTrevellick/FilesForEveryExtensionCreator)

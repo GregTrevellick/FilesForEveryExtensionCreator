@@ -4,7 +4,7 @@
 # Files For Every Extension Creator
 
 <!--BadgesSTART-->
-[![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20read%20me%20synchronizer-brightgreen.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer) 
+[![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20read%20me%20synchronizer-brightgreen.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/FilesForEveryExtensionCreator?branch=master)](https://bettercodehub.com/results/GregTrevellick/FilesForEveryExtensionCreator)
@@ -27,6 +27,7 @@
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=FilesForEveryExtensionCreator&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=FilesForEveryExtensionCreator&metric=vulnerabilities)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/b1t4vqmcjjoqos9u?svg=true)](https://ci.appveyor.com/project/GregTrevellick/FilesForEveryExtensionCreator)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/FilesForEveryExtensionCreator.svg)](https://ci.appveyor.com/project/GregTrevellick/FilesForEveryExtensionCreator/build/tests)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/FilesForEveryExtensionCreator/_apis/build/status/FilesForEveryExtensionCreator)](https://gregtrevellick.visualstudio.com/FilesForEveryExtensionCreator/_build/latest?definitionId=2)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)

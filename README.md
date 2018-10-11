@@ -30,6 +30,7 @@
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/b1t4vqmcjjoqos9u?svg=true)](https://ci.appveyor.com/project/GregTrevellick/FilesForEveryExtensionCreator)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/FilesForEveryExtensionCreator.svg)](https://ci.appveyor.com/project/GregTrevellick/FilesForEveryExtensionCreator/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/FilesForEveryExtensionCreator/_apis/build/status/FilesForEveryExtensionCreator)](https://gregtrevellick.visualstudio.com/FilesForEveryExtensionCreator/_build/latest?definitionId=2)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)

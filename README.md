@@ -1,6 +1,6 @@
 [CharityWareURL]: https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware
 [WhyURL]: https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Why
-
+ 
 # Files For Every Extension Creator
 
 <!--BadgesSTART-->

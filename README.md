@@ -11,6 +11,7 @@
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/FilesForEveryExtensionCreator?branch=master)](https://bettercodehub.com/results/GregTrevellick/FilesForEveryExtensionCreator)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/35560f38029b47258343156a1866f349)](https://www.codacy.com/project/gtrevellick/FilesForEveryExtensionCreator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/FilesForEveryExtensionCreator&amp;utm_campaign=Badge_Grade_Dashboard)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/FilesForEveryExtensionCreator/badge)](https://www.codefactor.io/repository/github/GregTrevellick/FilesForEveryExtensionCreator)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/FilesForEveryExtensionCreator/report?token=1lbVbxHo4oG2GCdtmPxAaQvaTJDri58c5BJgN9TpkBo)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/FilesForEveryExtensionCreator/branch/master/summary)
 

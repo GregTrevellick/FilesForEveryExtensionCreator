@@ -10,7 +10,6 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/35560f38029b47258343156a1866f349)](https://www.codacy.com/project/gtrevellick/FilesForEveryExtensionCreator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/FilesForEveryExtensionCreator&amp;utm_campaign=Badge_Grade_Dashboard)
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/FilesForEveryExtensionCreator/badge)](https://www.codefactor.io/repository/github/GregTrevellick/FilesForEveryExtensionCreator)
-[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/FilesForEveryExtensionCreator/report?token=1lbVbxHo4oG2GCdtmPxAaQvaTJDri58c5BJgN9TpkBo)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/FilesForEveryExtensionCreator/branch/master/summary)
 
 
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/FilesForEveryExtensionCreator.svg)](https://github.com/GregTrevellick/FilesForEveryExtensionCreator)
@@ -31,7 +30,6 @@
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/b1t4vqmcjjoqos9u?svg=true)](https://ci.appveyor.com/project/GregTrevellick/FilesForEveryExtensionCreator)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/FilesForEveryExtensionCreator.svg)](https://ci.appveyor.com/project/GregTrevellick/FilesForEveryExtensionCreator/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/FilesForEveryExtensionCreator/_apis/build/status/FilesForEveryExtensionCreator)](https://gregtrevellick.visualstudio.com/FilesForEveryExtensionCreator/_build/latest?definitionId=2)
-[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/FilesForEveryExtensionCreator/status?token=1lbVbxHo4oG2GCdtmPxAaQvaTJDri58c5BJgN9TpkBo)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/FilesForEveryExtensionCreator/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)

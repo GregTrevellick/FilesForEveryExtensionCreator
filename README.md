@@ -11,7 +11,7 @@
  [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/FilesForEveryExtensionCreator/badge)](https://www.codefactor.io/repository/github/GregTrevellick/FilesForEveryExtensionCreator)
     [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/FilesForEveryExtensionCreator.svg)](https://github.com/GregTrevellick/FilesForEveryExtensionCreator)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/FilesForEveryExtensionCreator.svg)](https://github.com/GregTrevellick/FilesForEveryExtensionCreator)
-[![GitHub actions](https://github.com/GregTrevellick/FilesForEveryExtensionCreator/workflows/.NET%20Core%20CI/badge.svg)](https://github.com/GregTrevellick/FilesForEveryExtensionCreator/actions)
+[![GitHub actions](https://github.com/GregTrevellick/FilesForEveryExtensionCreator/workflows/.NET%20Core/badge.svg)](https://github.com/GregTrevellick/FilesForEveryExtensionCreator/actions)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/FilesForEveryExtensionCreator.svg)](https://github.com/GregTrevellick/FilesForEveryExtensionCreator/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/FilesForEveryExtensionCreator.svg)](https://github.com/GregTrevellick/FilesForEveryExtensionCreator/pulls)
 [![GitHub followers](https://img.shields.io/github/followers/GregTrevellick.svg)](https://github.com/GregTrevellick?tab=followers)
